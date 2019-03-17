@@ -1,4 +1,21 @@
 # where-to-travel_vue_learning
+
+## Build Setup
+```
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+For a detailed explanation on how things work, check out the guide and docs for vue-loader.
+
 ## 多页应用
 页面跳转->返回HTML
 . 优点：首屏时间快，SEO效果好
@@ -23,5 +40,5 @@ npm install fastclick --save
 ```
 
 ## iconfont
-(点击进入官网)[https://www.iconfont.cn/]
+![点击进入官网](https://www.iconfont.cn/)
 图标管理->我的项目->新建项目

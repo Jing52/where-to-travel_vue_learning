@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <div>单文件组件和Vue中的路由</div>
     <router-view/>
   </div>
 </template>

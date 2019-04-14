@@ -19,10 +19,10 @@ export default{
         loop: true
       },
       swiperList: [{
-        id: '0001',
+        id: '00001',
         imgUrl: 'http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/e5104d77fbfdb522bd4fe4f0451e517f.jpg_750x200_7d44f64b.jpg'
       }, {
-        id: '0002',
+        id: '00002',
         imgUrl: 'http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/dacf6fc7c805984ab5813f2e8f91ce54.jpg_750x200_07cbbc5a.jpg'
       }]
     }

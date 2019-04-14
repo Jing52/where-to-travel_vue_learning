@@ -108,3 +108,4 @@ Vue.use(VueAwesomeSwiper, /* { default global options } */)
   }
 </script>
 ```
+
